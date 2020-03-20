@@ -1,0 +1,6 @@
+requests
+json
+webbbrowser
+pprint
+matplotlib.pyplot
+sqlite3
