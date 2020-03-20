@@ -32,4 +32,4 @@ else:
     conn.close
 
     ShowGraph(ListDate, TempList, "Wykres temperatury",
-              'Temperature at the top of K2 in the next 5 days', 'Date and hour [yyyy-mm-dd hh:mm:ss]', '[°C]')
+              'Temperature at K2 in the next 5 days', 'Date and hour [yyyy-mm-dd hh:mm:ss]', '[°C]')
