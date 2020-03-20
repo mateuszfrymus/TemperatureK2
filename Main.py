@@ -6,7 +6,7 @@ from sqlite import *
 from functions import *
 
 params = {
-    "appid": "570a250f89779fc9b0a36edc18a938d4",
+    "appid": "enter your api key here",
     "lat": "35.88",
     "lon": "76.51"
 }
